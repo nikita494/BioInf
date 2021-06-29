@@ -1,3 +1,4 @@
+#http://rosalind.info/problems/splc/
 import re
 from textwrap import wrap
 CODON_TABLE = {'UUU': 'F', 'CUU': 'L', 'AUU': 'I', 'GUU': 'V',

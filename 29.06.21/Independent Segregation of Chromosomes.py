@@ -1,3 +1,4 @@
+#http://rosalind.info/problems/indc/
 from math import factorial as f, log10
 
 

@@ -1,3 +1,4 @@
+#http://rosalind.info/problems/scsp/
 def common_supersequence(s, t):
     m, n, l = len(s), len(t), [[0] * (len(t) + 1)] * (len(s) + 1)
     for i in range(m + 1):

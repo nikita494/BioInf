@@ -1,3 +1,4 @@
+#http://rosalind.info/problems/trie/
 import sys
 
 
