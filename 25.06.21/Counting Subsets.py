@@ -1,2 +1,2 @@
-http://rosalind.info/problems/sset/
+#http://rosalind.info/problems/sset/
 print(2 ** int(input()) % 1000000)
