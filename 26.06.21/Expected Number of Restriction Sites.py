@@ -1,3 +1,4 @@
+#http://rosalind.info/problems/eval/
 from functools import reduce
 from operator import mul
 n, s, a = int(input()), input(), [float(i) for i in input().split()]
