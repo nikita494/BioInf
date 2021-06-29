@@ -1,3 +1,4 @@
+#http://rosalind.info/problems/motz/
 from Bio import SeqIO
 POSSIBLE_EDGES = {'A': 'U', 'U': 'A', 'C': 'G', 'G': 'C'}
 
