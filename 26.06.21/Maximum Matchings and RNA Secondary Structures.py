@@ -1,3 +1,4 @@
+#http://rosalind.info/problems/mmch/
 from math import factorial as f
 from Bio import SeqIO
 
